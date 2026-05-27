@@ -23,7 +23,7 @@ This project is used to present music-related content through a custom web exper
 
 - Website: https://www.zeffyrmusic.com
 - Repository: https://github.com/zeffyr-000/zeffyrmusic
-- Main tech: TypeScript
+- Main tech: Angular, Angular SSR, NgRx Signals, Bootstrap, ng-bootstrap, Transloco, Chart.js, RxJS, TypeScript, Express
 
 ### 📺 Suivi Séries
 
@@ -33,7 +33,7 @@ The goal of this project is to help users keep track of the series they watch, o
 
 - Website: https://suivi-series.zeffyr.com/
 - Repository: https://github.com/zeffyr-000/suiviseries
-- Main tech: TypeScript
+- Main tech: Angular, Angular Material, Service Worker, Transloco, RxJS, TypeScript, SCSS
 
 ### 🏛️ Patrimoine360
 
@@ -43,17 +43,15 @@ This project explores how web technologies can be used to present cultural or he
 
 - Demo: https://zeffyr-000.github.io/patrimoine360/
 - Repository: https://github.com/zeffyr-000/patrimoine360
-- Main tech: TypeScript
+- Main tech: Angular, Angular Material, Chart.js, ng2-charts, Transloco, RxJS, TypeScript
 
-### 📈 Market Dashboard
+### 🌦️ Meteo360
 
-A dashboard-oriented project focused on market-related data visualization.
+Weather application with an Angular frontend and a PHP backend.
 
-This project experiments with interface structure, data presentation and dashboard patterns for displaying information clearly and efficiently.
-
-- Demo: https://zeffyr-000.github.io/market-dashboard/
-- Repository: https://github.com/zeffyr-000/market-dashboard
-- Main tech: TypeScript
+- Repository: https://github.com/zeffyr-000/meteo360
+- Production: https://meteo360.zeffyr.com/
+- Main tech: Angular, Angular Material, CDK, Transloco, RxJS, TypeScript, SCSS, PHP
 
 ### 💱 Instant Currency
 
@@ -62,4 +60,4 @@ A small web tool related to currency conversion or currency information.
 This project focuses on a simple, direct and useful user experience around financial/currency data.
 
 - Repository: https://github.com/zeffyr-000/instant-currency
-- Main tech: TypeScript
+- Main tech: Angular, Ionic, Capacitor, Chart.js, ng2-charts, RxJS, TypeScript
